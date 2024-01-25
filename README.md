@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Project Trybefy - Trybe
+
+Esse projeto contempla o estudo sobre as dependências listadas abaixo:
+
+- MySQL
+- Linguagem SQL
+- Docker
+- Git
+- Github
+
+> O projeto consiste na criação de um banco de dados relacional simulando um aplicativo de música como o Spotify, assim, criando tabelas para entidades como músicas, usuários, albums, entre outros. O objetivo é conhecer a linguagem SQL, bem como a estruturação de um banco com várias tabelas se relacionando, e a "containerização" dessa aplicação com Docker.
